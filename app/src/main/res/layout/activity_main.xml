@@ -144,6 +144,7 @@
          android:gravity="center"
          android:layout_gravity="center"
          android:onClick="addpoint"
+         android:layout_marginTop="50dp"
          android:src="@drawable/outline_autoplay_24"
 
          />
